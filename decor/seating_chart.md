@@ -1,4 +1,5 @@
 ## Seating Chart
 
 Possible option:
-<img src="https://onefabday.com/wp-content/uploads/2025/03/Lexie-and-Stephen_Poulaphouca_Folklore_168.jpg" width=250>
+
+<img src="https://onefabday.com/wp-content/uploads/2025/03/Lexie-and-Stephen_Poulaphouca_Folklore_168.jpg" width=300>
